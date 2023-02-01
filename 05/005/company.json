@@ -1,0 +1,10 @@
+{
+  "company1": {
+    "title": "Company1",
+    "country": "USA"
+  },
+  "company2": {
+    "title": "Company2",
+    "country": "USA"
+  }
+}

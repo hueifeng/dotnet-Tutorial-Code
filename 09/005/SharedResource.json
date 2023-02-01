@@ -1,0 +1,9 @@
+{
+  " Message ": {
+    "LocalizedValue": {
+      "zh-CN": "你好，世界!",
+      "en-US": "Hello World!"
+    },
+    "Key": "Message"
+  }
+}

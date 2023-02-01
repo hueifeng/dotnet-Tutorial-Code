@@ -1,0 +1,11 @@
+{
+  "age": 18,
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "company": {
+    "title": "Microsoft",
+    "country": "USA"
+  }
+}

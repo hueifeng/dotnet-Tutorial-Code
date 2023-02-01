@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32317.152
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01", "01", "{4AA6E1A2-8182-42E3-8A08-C89C9F34A3DA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "dotnet-date-tool", "001\dotnet-date-tool\dotnet-date-tool.csproj", "{EB4BE4F8-5A33-4629-BE13-703F99CA41E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB4BE4F8-5A33-4629-BE13-703F99CA41E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB4BE4F8-5A33-4629-BE13-703F99CA41E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB4BE4F8-5A33-4629-BE13-703F99CA41E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB4BE4F8-5A33-4629-BE13-703F99CA41E8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{EB4BE4F8-5A33-4629-BE13-703F99CA41E8} = {4AA6E1A2-8182-42E3-8A08-C89C9F34A3DA}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {18C43C57-4A6E-4213-8175-057766F8FB46}
+	EndGlobalSection
+EndGlobal
